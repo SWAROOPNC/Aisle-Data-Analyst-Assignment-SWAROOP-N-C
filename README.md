@@ -1,6 +1,6 @@
 # Aisle-Data-Analyst-Assignment-SWAROOP-N-C
 
-FIles Description : It contains below files in Description in Zip
+FIles Description : It contains below files in Description
 
 # Q1&Q2.ipynb 
 - this contain Solutions to both questions in a single ipynb file with Output screenshots and more details  ( I prefer evaluation based on this file )
